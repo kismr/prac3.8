@@ -1,24 +1,28 @@
 div.cajau {
     background-color: blue;
     display: inline-block;
-    width: 50px;
-    height: 50px;
+    width: 250px;
+    height: 170px;
 }
 
 div.cajad {
     background-color: red;
     display: inline-block;
-    width: 50px;
-    height: 50px;
+    width: 250px;
+    height: 170px;
 }
 
 div.cajat {
     background-color: yellow;
     display: inline-block;
-    width: 50px;
-    height: 50px;
+    width: 250px;
+    height: 170px;
 }
 
 div.green {
     background-color: green;
+}
+
+div.footer {
+    background-color: #b0dce4;
 }
