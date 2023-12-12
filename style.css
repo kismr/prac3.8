@@ -1,0 +1,20 @@
+div.cajau {
+    background-color: blue;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+
+div.cajad {
+    background-color: red;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+
+div.cajat {
+    background-color: yellow;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
